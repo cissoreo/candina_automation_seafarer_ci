@@ -1,0 +1,17 @@
+COLORS = {
+    "primary": "#1e40af",
+    "primary_dark": "#1e3a8a",
+    "primary_light": "#3b82f6",
+    "success": "#16a34a",
+    "warning": "#f59e0b",
+    "warning_bg": "#fef3c7",
+    "danger": "#dc2626",
+    "danger_bg": "#fee2e2",
+    "bg": "#f9fafb",
+    "card": "#ffffff",
+    "border": "#e5e7eb",
+    "text": "#111827",
+    "text_muted": "#6b7280",
+    "log_bg": "#1f2937",
+    "log_text": "#e5e7eb",
+}

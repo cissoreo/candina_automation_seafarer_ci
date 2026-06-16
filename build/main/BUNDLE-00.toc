@@ -1,0 +1,3 @@
+([('main',
+   '/Users/davinbennett/Documents/Candina/seafarer_cv_analyzer/dist/main',
+   'EXECUTABLE')],)
