@@ -129,10 +129,10 @@ class PlayWright():
 
                 page.wait_for_load_state("networkidle")
                 page.wait_for_timeout(2000)
-
-                # ambil pesan error
+                
+                # ambil id
                 seafarer_id = page.locator(
-                    "#big > table:nth-child(14) > tbody > tr:nth-child(3) > td:nth-child(2)"
+                    "#big > table:nth-child(14) > tbody > tr:nth-child(2) > td:nth-child(2)"
                 ).inner_text().strip()
             
             
